@@ -1,0 +1,7 @@
+Package: firmware-oneplus-enchilada
+Version: 1.0
+Architecture: arm64
+Maintainer: daniel224455
+Conflicts: linux-firmware
+Replaces: linux-firmware
+Description: Firmware blobs for OnePlus 6

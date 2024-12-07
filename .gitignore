@@ -1,0 +1,4 @@
+/linux
+*.deb
+rootfs.7z
+rootfs.img

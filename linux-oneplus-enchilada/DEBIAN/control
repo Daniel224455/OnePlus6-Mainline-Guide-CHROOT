@@ -1,0 +1,6 @@
+Package: linux-oneplus-enchilada
+Version: 6.11.0-sdm845-g662abb161e81
+Architecture: arm64
+Maintainer: daniel224455 <nothx@confidential.xyz>
+Section: kernel
+Description: Kernel and Modules for the OnePlus 6 device.

@@ -2,3 +2,5 @@
 *.deb
 rootfs.7z
 rootfs.img
+linux-oneplus-enchilada/lib
+linux-oneplus-enchilada/boot
